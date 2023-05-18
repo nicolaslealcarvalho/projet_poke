@@ -1,0 +1,1 @@
+# si on veux faire les stat des Shocobos de facon fixe et attaque predefinie, alors faire JSON avec stat et attaque etc
